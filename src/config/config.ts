@@ -32,6 +32,12 @@ const unlockables: Unlockable[] = [
       "0x418267ed4f086a7a8fa7152434340ba09ec77081ac358b8b6599942c3e3773bd",
     ], // You need to own BB TAP to unlock this.
   },
+  {
+    cid: "bafybeid2aw5yeyw5a276c2h5alx7xv6tcdny6w6er3egi6nplqtfrwl24i", // CDC
+    nftId: [
+      "0xadf93d2e38e288d07127967c4cda91210c60ade0e23a633bcf43ee12632fff5b",
+    ], // You need to own CDC to unlock this.
+  },
 ];
 
 export { unlockables };
