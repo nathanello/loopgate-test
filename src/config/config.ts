@@ -38,6 +38,12 @@ const unlockables: Unlockable[] = [
       "0xadf93d2e38e288d07127967c4cda91210c60ade0e23a633bcf43ee12632fff5b",
     ], // You need to own CDC to unlock this.
   },
+  {
+    cid: "bafybeiatoc7dqegcwnyoaznkltgmlbvv6rbomlnsuppptyid6iihpufctq", // FH
+    nftId: [
+      "0xeff063a7380f6c898b05d50750fa3918961afaf2b7a1600e2ec208bf21033f8d",
+    ], // You need to own FH to unlock this.
+  },
 ];
 
 export { unlockables };
