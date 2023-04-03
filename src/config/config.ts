@@ -24,7 +24,7 @@ const unlockables: Unlockable[] = [
     cid: "bafybeibnx7wm5ijomzugkfp7ghk7cbqikhfjgjfta3joz4v5pa6in57aem", // BB AUS TOUR
     nftId: [
       "0x29e59d237e1d8c72b8f36fa85a4d86d02d3b413945cd4cbff41cfa77e5b34d83",
-    ], // You need to own BB AUS TOUR to unlock this.
+    ], // You need to own BB AUS TOUR to unlock this game download.
   },
 ];
 
