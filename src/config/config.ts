@@ -62,6 +62,24 @@ const unlockables: Unlockable[] = [
       "0xdd17feeb188fba9efacfd5f5f9c5f7abb49d68c7253287c8b9c445f7e1f59ad4",
     ], // You need to own RGBZ to unlock this.
   },
+  {
+    cid: "bafybeihdejfhuy5jgdch52qvpbgdq4ivttfztdetvjepz44wlgwupgbvky", // SB
+    nftId: [
+      "0x297bb2a6b3c370ec80a33df15f6a72c0be0fa26bddfe44ca7785726ef4e09e14",
+    ], // You need to own SB to unlock this.
+  },
+  {
+    cid: "bafybeig45x33ooeryye4irxeatyahn4a6tl2wjqovhnehvs5hdky67oy5e", // SSTF
+    nftId: [
+      "0x4573856806d238d9148d441b12a70583aaf516ae62a07e9b1803ccfef6a27c6d",
+    ], // You need to own SSTF to unlock this.
+  },
+  {
+    cid: "bafybeibzmjaxztuhe6ckhxzxt7nqlwlew44uluin345pwoa7dywgwejqiq", // SITS
+    nftId: [
+      "0xfa8a970aacb4d41beb26685981d85af1d50596270a0f55d589ed270703b1710a",
+    ], // You need to own SITS to unlock this.
+  },
 ];
 
 export { unlockables };
