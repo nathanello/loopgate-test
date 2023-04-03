@@ -3,7 +3,7 @@ import Head from "next/head";
 const NextHeadBase = () => {
   const baseUrl = "https://download-video-games.netifly.app/";
   const ogImgUrl = `${baseUrl}/images/splash.png`;
-  const title = "NJJ Publishing — Token-Gated Videoo Game Downloads";
+  const title = "NJJ Publishing — Token-Gated Video Game Downloads";
   const description =
     "Securely and easily access exclusive digital downloads. Powered by LoopGate.";
 
