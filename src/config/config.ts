@@ -45,6 +45,24 @@ const unlockables: Unlockable[] = [
     ], // You need to own FH to unlock this.
   },
   {
+    cid: "bafybeibelkxjlt6oqf4acbc7yprrwa2u7yr3lf2oudnqm3i2bhjg7sykpy", // GB1
+    nftId: [
+      "0xf18ddbccd75696b3034ebaba3af0da8c6d935d97a528297d4b8621e7fd73de6f",
+    ], // You need to own GB1 to unlock this.
+  },
+  {
+    cid: "bafybeigeivqmg6qlhcb4zm5zwu37ugxmfvqmpazs66bu4bopwkgsg2ikje", // GB2
+    nftId: [
+      "0x144dd1003664d34b7c3086faf884e747657800209993546951b19d521169ee02",
+    ], // You need to own GB2 to unlock this.
+  },
+  {
+    cid: "bafybeidjd5fqivkoqavwssuwmq4crsnzgbfbegvhq5gu6irobcsboapmie", // GB3
+    nftId: [
+      "0x955cac5ee3877dbdcaf827147f4b4388080cfb956c2c5f841201497683b7aae5",
+    ], // You need to own GB3 to unlock this.
+  },
+  {
     cid: "bafybeifotlipvwv2nzpagajtk226ly3bfoug46phweyf5d6cli4636xhja", // JOS
     nftId: [
       "0x30167a3d8f73bce1a2d9d3c5468e46b4a7ce23a110c5151d7ecbec5e5bbb5939",
