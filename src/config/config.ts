@@ -63,7 +63,7 @@ const unlockables: Unlockable[] = [
     ], // You need to own GB3 to unlock this.
   },
   {
-    cid: "bafybeifotlipvwv2nzpagajtk226ly3bfoug46phweyf5d6cli4636xhja", // JOS
+    cid: "bafybeieuy2u4umen3zpgpcl2vdpta3wmqjvq72cxnxo33xgjroyee6jawe", // JOS
     nftId: [
       "0x30167a3d8f73bce1a2d9d3c5468e46b4a7ce23a110c5151d7ecbec5e5bbb5939",
     ], // You need to own JOS to unlock this.
