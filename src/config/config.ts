@@ -27,6 +27,12 @@ const unlockables: Unlockable[] = [
     ], // You need to own BB AUS TOUR to unlock this.
   },
   {
+    cid: "bafybeihrczx5mmb72ijgqm26xihm7wkqomm64d5qwzm6mtsc65iiztceji", // BB DT
+    nftId: [
+      "0xc11919e6f9dbbdf77b52809f1e523d17c4519bc19f4c1d37f5611608e3e4ef0e",
+    ], // You need to own BB DT to unlock this.
+  },
+  {
     cid: "bafybeiagzjl775o2vpigiucoe2of6n2qigfjfthdra62lj74vsexk6coxq", // BB TAP
     nftId: [
       "0x418267ed4f086a7a8fa7152434340ba09ec77081ac358b8b6599942c3e3773bd",
