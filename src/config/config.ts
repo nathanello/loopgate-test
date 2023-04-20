@@ -38,7 +38,8 @@ const unlockables: Unlockable[] = [
       "0x418267ed4f086a7a8fa7152434340ba09ec77081ac358b8b6599942c3e3773bd",
     ], // You need to own BB TAP to unlock this.
   },
-  cid: "bafybeickg4alnhyd662sixx5ssqrwvtlamykdt4kkhuyby4drgy2vv2tx4", // BB PP
+  {
+  	cid: "bafybeickg4alnhyd662sixx5ssqrwvtlamykdt4kkhuyby4drgy2vv2tx4", // BB PP
     nftId: [
       "0xbdce4c9a5a90d253920dacb1630be43a4cc22939023f0d2476e4ead6996aef79",
     ], // You need to own BB PP to unlock this.
@@ -73,7 +74,7 @@ const unlockables: Unlockable[] = [
       "0x955cac5ee3877dbdcaf827147f4b4388080cfb956c2c5f841201497683b7aae5",
     ], // You need to own GB3 to unlock this.
   },
-   {
+  {
     cid: "bafybeic6qhsi56kzddcxkpljpgdrv2yin77fqwbpxvykaov532ncxdsd4m", // GB5
     nftId: [
       "0x86b5d73137314d2b040addbd717fcb0cc335a990a27e28becfd9a76fbd2dfe3d",
