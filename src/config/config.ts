@@ -81,6 +81,18 @@ const unlockables: Unlockable[] = [
     ], // You need to own GB5 to unlock this.
   },
   {
+    cid: "bafybeihjhlf4sbxc6yu2wkmyrsmfmzyubkzskzawjasmpzwm2up6cq5qcu", // GB6
+    nftId: [
+      "0x8de90fe06510a38414aa919927e52e7740a5b296cd4a785ee21652e1452d5f07",
+    ], // You need to own GB6 to unlock this.
+  },
+  {
+    cid: "bafybeiduyvho2gzaqxc3fexwkntl66itq7rivmd5346pma3mmolnwm77o4", // GB7
+    nftId: [
+      "0x53bfbda493831d6e5d5a51cc2609866061d951b8c60171b77443b24d5e18cd58",
+    ], // You need to own GB7 to unlock this.
+  },
+  {
     cid: "bafybeieuy2u4umen3zpgpcl2vdpta3wmqjvq72cxnxo33xgjroyee6jawe", // JOS
     nftId: [
       "0x30167a3d8f73bce1a2d9d3c5468e46b4a7ce23a110c5151d7ecbec5e5bbb5939",
@@ -91,6 +103,12 @@ const unlockables: Unlockable[] = [
     nftId: [
       "0x33753c2780f7edac178e6fa4f489414abe47814ab85c2b8da0ec5da4a3fba5ae",
     ], // You need to own ONN to unlock this.
+  },
+  {
+    cid: "bafybeihvwfjwa3lm52q6ko7oupin5fojqrtia6nmqnien3uqz6nawpxfce", // Reflexion
+    nftId: [
+      "0x3458a6323c405cb2ba52e025bd35c166c64aef018fa94c790c876a6eaa0703db",
+    ], // You need to own Reflexion to unlock this.
   },
   {
     cid: "bafybeihxgmjvx4gjymy36b7bheyhbf3zsquyoplj6srkpxes243waxn7o4", // RGBZ
