@@ -99,6 +99,12 @@ const unlockables: Unlockable[] = [
     ], // You need to own JOS to unlock this.
   },
   {
+    cid: "bafybeibzclrryh4b22p2wqrnk52gwthmbikyky4aiviuvvlksm24uonx4e", // MR
+    nftId: [
+      "0xb615116b43d9101f984219226d49318d75527bd770d1000c19c137b0fa68380a",
+    ], // You need to own MoonRace to unlock this.
+  },
+  {
     cid: "bafybeihedvjzxbfjzcv43sdy3py2movxkp7tgfiovnl2t7gxy665hllape", // ONN
     nftId: [
       "0x33753c2780f7edac178e6fa4f489414abe47814ab85c2b8da0ec5da4a3fba5ae",
