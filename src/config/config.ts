@@ -140,6 +140,18 @@ const unlockables: Unlockable[] = [
       "0xfa8a970aacb4d41beb26685981d85af1d50596270a0f55d589ed270703b1710a",
     ], // You need to own SITS to unlock this.
   },
+  {
+    cid: "bafybeidilrcjhs3o7nghbafksnos4xirrsmgc4kjhplrftv7hbhasbsgaa", // DEMO
+    nftId: [
+      "0x3d82e49db37e76710936869e9f5ea77c17fec64df4b76bd092dfa3d1563e266c",
+    ], // You need to own DEMO STREAM to unlock this.
+  },
+  {
+    cid: "bafybeig24aayuqpz27as4ydydosqnfnoa3t5ocgblxk3xbre4wcv3jxudq", // DEMO
+    nftId: [
+      "0x3d82e49db37e76710936869e9f5ea77c17fec64df4b76bd092dfa3d1563e266c",
+    ], // You need to own DEMO DOWNLOAD to unlock this.
+  },
 ];
 
 export { unlockables };
