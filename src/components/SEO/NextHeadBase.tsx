@@ -15,7 +15,7 @@ const NextHeadBase = () => {
       <meta property="og:type" content="website" />
       <meta property="og:url" content={baseUrl} />
       <meta property="og:image" content={ogImgUrl} />
-      <meta property="og:site_name" content="NJJ Publishing — Token-Gated Videoo Game Downloads" />
+      <meta property="og:site_name" content="NJJ Publishing — Token-Gated Video Game Downloads" />
       <meta property="og:locale" content="en_US" />
 
       <meta name="twitter:card" content="summary_large_image" />
