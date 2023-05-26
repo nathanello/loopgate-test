@@ -1,11 +1,11 @@
 import Head from "next/head";
 
 const NextHeadBase = () => {
-  const baseUrl = "https://download-video-games.netifly.app/";
-  const ogImgUrl = `${baseUrl}/images/splash.png`;
+  const baseUrl = "https://downloads.notjustjpgs.com";
+  const ogImgUrl = `${baseUrl}/images/splash.jpg`;
   const title = "NJJ Publishing — Token-Gated Video Game Downloads";
   const description =
-    "Securely and easily access exclusive digital downloads. Powered by LoopGate.";
+    "Securely and easily access exclusive digital downloads using your Loopring NFTs. Powered by LoopGate.";
 
   return (
     <Head>
