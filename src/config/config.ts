@@ -110,6 +110,12 @@ const unlockables: Unlockable[] = [
       "0x33753c2780f7edac178e6fa4f489414abe47814ab85c2b8da0ec5da4a3fba5ae",
     ], // You need to own ONN to unlock this.
   },
+   {
+    cid: "bafybeidjrpki6222bx3jvtyi5r5ndvigzxt45hlfqj4xwfkl7t7p7iflfe", // PPC
+    nftId: [
+      "0x7c27a43bd7d8594e739d4155feff3450e1deb99cddd525c2d11704d48a20f2a4",
+    ], // You need to own PPC to unlock this.
+  },
   {
     cid: "bafybeihvwfjwa3lm52q6ko7oupin5fojqrtia6nmqnien3uqz6nawpxfce", // Reflexion
     nftId: [
@@ -127,6 +133,12 @@ const unlockables: Unlockable[] = [
     nftId: [
       "0x297bb2a6b3c370ec80a33df15f6a72c0be0fa26bddfe44ca7785726ef4e09e14",
     ], // You need to own SB to unlock this.
+  },
+  {
+    cid: "bafybeigjijsevhvqbxzmmmvtszzyz4zblayjnh2d374nhn42binjeb3ou4", // Space Blaster Demo
+    nftId: [
+      "0xabf69b2563efcf5601f9fae1ff4e49a1eecccee8f54a1b66f98a19ddf6284094",
+    ], // You need to own Space Blaster Demo to unlock this.
   },
   {
     cid: "bafybeig45x33ooeryye4irxeatyahn4a6tl2wjqovhnehvs5hdky67oy5e", // SSTF
