@@ -141,6 +141,24 @@ const unlockables: Unlockable[] = [
     ], // You need to own Space Blaster Demo to unlock this.
   },
   {
+    cid: "bafybeih7hah5oviz4h6xmgrwktzy4urmn5lf2fpg7sfqzrn5nuemgq4uam", // Space Blaster R21
+    nftId: [
+      "0x6ee4173813693bf1ff27eb1adf1b801f52cbc9d67af88d9636cd04314b93d168",
+    ], // You need to own Space Blaster R21 to unlock this.
+  },
+  {
+    cid: "bafybeieel4dhb6awp6s7o52orbk6izsjayrajlg6gjn5azt62s76u62ehq", // Space Blaster R420
+    nftId: [
+      "0x0f9ed78ea63262d98402d7fa729c4d5a18da3ffe9f65639bf2c5987a67de6c38",
+    ], // You need to own Space Blaster R420 to unlock this.
+  },
+  {
+    cid: "bafybeibcuzq233hrbdacgap4m7l6m2g4iyou6c4ko34yqz4ww3nq7f5fbe", // Space Blaster R1337
+    nftId: [
+      "0xb66be9fea8d63d7520fd8772aed24743b53743a385227f6c64d4837b2d91d116",
+    ], // You need to own Space Blaster R1337 to unlock this.
+  },
+  {
     cid: "bafybeig45x33ooeryye4irxeatyahn4a6tl2wjqovhnehvs5hdky67oy5e", // SSTF
     nftId: [
       "0x4573856806d238d9148d441b12a70583aaf516ae62a07e9b1803ccfef6a27c6d",
