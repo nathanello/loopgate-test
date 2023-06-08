@@ -146,6 +146,12 @@ const unlockables: Unlockable[] = [
       "0x6ee4173813693bf1ff27eb1adf1b801f52cbc9d67af88d9636cd04314b93d168",
     ], // You need to own Space Blaster R21 to unlock this.
   },
+   {
+    cid: "bafybeidibldaqgp7pga7ivrw74fpxnnz45ojsk3bbo3o3u5xmggvw4auqa", // Space Blaster: R69
+    nftId: [
+      "0x5aac61a272564e7203da01aa47284d6208655df541490d583dca3dbd4423ab8e",
+    ], // You need to own Space Blaster R69 to unlock this.
+  },
   {
     cid: "bafybeieel4dhb6awp6s7o52orbk6izsjayrajlg6gjn5azt62s76u62ehq", // Space Blaster R420
     nftId: [
